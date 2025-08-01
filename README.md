@@ -3,7 +3,7 @@
 # Adidas Regional Sales Performance Analysis
 
 **Excel-Based Business Intelligence Portfolio Project**  
-Created by Bernard Joseph | [www.linkedin.com/in/bernard-joseph-oyakhilome](#) | [Portfolio](#)
+Created by Bernard Joseph | [www.linkedin.com/in/bernard-joseph-oyakhilome](#) | [https://thenalyst3global.github.io/Adidas_Regional_Sales_Performance-/](#)
 
 ---
 
@@ -25,8 +25,8 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ## 📸 Dashboard Image Previews
 
-### 🗂️ Raw Dataset View  
-![Raw Excel Data] ![dataset view](https://github.com/user-attachments/assets/0e1e213c-4cce-43ad-b29f-70ffb4e5e162)
+### 🗂️ Raw Dataset View  [Download Excel Dataset](https://github.com/user-attachments/files/21555163/Adidas.sales.analysis.xlsx)
+![Dataset view] ![dataset view](https://github.com/user-attachments/assets/0e1e213c-4cce-43ad-b29f-70ffb4e5e162)
 
 ### 📊 Pivot Table Summary  
 ![Revenue Pivot Analysis] 
@@ -85,4 +85,4 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 **Bernard Joseph**  
 Business Intelligence Analyst  
-[LinkedIn](#) | [GitHub](#) | [Email](#)
+[jozefbernardonline@gmail.com](#)
