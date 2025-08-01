@@ -24,13 +24,21 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 ## 📸 Dashboard Image Previews
 
 ### 🗂️ Raw Dataset View  
-![Raw Excel Data](images/raw_data_view.png)
+![Raw Excel Data] ![dataset view](https://github.com/user-attachments/assets/0e1e213c-4cce-43ad-b29f-70ffb4e5e162)
 
 ### 📊 Pivot Table Summary  
-![Pivot Analysis](images/pivot_table_summary.png)
+![Revenue Pivot Analysis] 
+![revenue pivot](https://github.com/user-attachments/assets/68222aeb-8250-4cf1-a91d-f77fa1484e89)
+![Region Pivot Analysis]
+![regional pivot](https://github.com/user-attachments/assets/bac8506a-ff6a-48cf-a4fa-b94d6285f994)
+
 
 ### 📈 Final Visualization Dashboard  
-![Excel Dashboard UI](images/excel_dashboard_view.png)
+![Revenue Excel Dashboard UI]
+(![Adidas sales](https://github.com/user-attachments/assets/c978c345-7826-48f6-aec0-21ddfdf6cab9)
+
+![Region Excel Dashboard UI]
+ ![Adidas region](https://github.com/user-attachments/assets/52017e03-0dff-422f-80f1-480dfca4c68f)
 
 ---
 
@@ -66,13 +74,8 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 ## 📎 Downloads
 
 - 🔽 [Excel Dashboard File](#)
-- 📄 [Full PDF Report](#)
+- 📄 [Full PDF Report]( [Adidas Regional Sales Performance Analysis.docx](https://github.com/user-attachments/files/21555048/Adidas.Regional.Sales.Performance.Analysis.docx)
 
----
-
-## 🚀 Live GitHub Page
-
-👉 [View Project Live](https://thenalyst3global.github.io/Adidas_Regional_Sales_Dashboard/)
 
 ---
 
