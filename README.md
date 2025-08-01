@@ -1,3 +1,5 @@
+# Bernard Joseph Oyakhilome
+
 # Adidas Regional Sales Performance Analysis
 
 **Excel-Based Business Intelligence Portfolio Project**  
