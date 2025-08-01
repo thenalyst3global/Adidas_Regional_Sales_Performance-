@@ -73,8 +73,8 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ## 📎 Downloads
 
-- 🔽 [Excel Dashboard File](#)
-- 📄 [Full PDF Report]( [Adidas Regional Sales Performance Analysis.docx](https://github.com/user-attachments/files/21555048/Adidas.Regional.Sales.Performance.Analysis.docx)
+- 🔽 [Download Excel Dashboard File](https://github.com/user-attachments/files/21555089/Adidas.selffile.xlsx)
+- 📄 [Download Full DOC Report](https://github.com/user-attachments/files/21555048/Adidas.Regional.Sales.Performance.Analysis.docx)
 
 
 ---
