@@ -78,7 +78,7 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ### 🧾 Finance
 - **Trend**: Profit margin is lowest in the Western region.
-- **Tactic**: Drill into cost structure—inventory, shipping, or vendor fees.
+- **Tactic**: Drill into cost structure inventory, shipping, or vendor fees.
 - **Suggestion**: Optimize procurement strategies in low-efficiency zones.
 
 ### 👟 Product
