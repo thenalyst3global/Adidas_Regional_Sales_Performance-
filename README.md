@@ -1,4 +1,4 @@
-# Bernard Joseph Oyakhilome
+## Bernard Joseph Oyakhilome
 
 # Adidas Regional Sales Performance Analysis
 
