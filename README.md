@@ -7,27 +7,28 @@ Created by Bernard Joseph | [www.linkedin.com/in/bernard-joseph-oyakhilome](#) |
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-1. [📌 Project Overview](#📌-project-overview)  
-2. [🧰 Tools & Techniques](#🧰-tools--techniques)  
-3. [📸 Image Previews](#📸-image-previews)  
-4. [👥 Stakeholder Goals & Strategy](#👥-stakeholder-goals--strategy)  
-5. [💡 Insights & Recommendations](#💡-insights--recommendations)  
-6. [📎 Downloads](#📎-downloads)  
+1. [Project Overview](#project-overview)  
+2. [Tools & Techniques](#tools--techniques)  
+3. [Image Previews](#image-previews)  
+4. [Stakeholder Goals & Strategy](#stakeholder-goals--strategy)  
+5. [Insights & Recommendations](#insights--recommendations)  
+6. [Downloads](#downloads)  
 7. [Author](#author)
+
 
 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This dashboard was built to provide clear insights into Adidas’ regional sales performance using Microsoft Excel. The goal is to simulate a real-world business use case, empowering decision-makers to explore data-driven strategies across different sales territories and product categories.
 
 ---
 
-## 🧰 Tools & Techniques
+## Tools & Techniques
 
 - **Microsoft Excel** (Power Pivot, Slicers, Pivot Charts)
 - KPI Cards: Total Revenue, Cost, Profit, Margin
@@ -37,7 +38,7 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ---
 
-## 📸 Image Previews
+## Image Previews
 
 ### 🗂️ Raw Dataset View  [Download Excel Dataset](https://github.com/user-attachments/files/21555163/Adidas.sales.analysis.xlsx)
 ![Dataset view] ![dataset view](https://github.com/user-attachments/assets/0e1e213c-4cce-43ad-b29f-70ffb4e5e162)
@@ -58,7 +59,7 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ---
 
-## 👥 Stakeholder Goals & Strategy
+## Stakeholder Goals & Strategy
 
 | Team         | Business Question |
 |--------------|--------------------|
@@ -68,7 +69,7 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ---
 
-## 💡 Insights & Recommendations
+## Insights & Recommendations
 
 ### 🎯 Marketing
 - **Trend**: Apparel is top-selling across all regions.
@@ -87,7 +88,7 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ---
 
-## 📎 Downloads
+## Downloads
 
 - 🔽 [Download Excel Dashboard File](https://github.com/user-attachments/files/21555089/Adidas.selffile.xlsx)
 - 📄 [Download Full DOC Report](https://github.com/user-attachments/files/21555048/Adidas.Regional.Sales.Performance.Analysis.docx)
