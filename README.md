@@ -9,13 +9,14 @@ Created by Bernard Joseph | [www.linkedin.com/in/bernard-joseph-oyakhilome](#) |
 
 ## 📋 Table of Contents
 
-1. [Project Overview](#project-overview)  
-2. [Tools & Techniques](#tools--techniques)  
-3. [Image Previews](#image-previews)  
-4. [Stakeholder Goals & Strategy](#stakeholder-goals--strategy)  
-5. [Insights & Recommendations](#insights--recommendations)  
-6. [Downloads](#downloads)  
+1. [📌 Project Overview](#📌-project-overview)  
+2. [🧰 Tools & Techniques](#🧰-tools--techniques)  
+3. [📸 Image Previews](#📸-image-previews)  
+4. [👥 Stakeholder Goals & Strategy](#👥-stakeholder-goals--strategy)  
+5. [💡 Insights & Recommendations](#💡-insights--recommendations)  
+6. [📎 Downloads](#📎-downloads)  
 7. [Author](#author)
+
 
 
 ---
@@ -94,7 +95,7 @@ This dashboard was built to provide clear insights into Adidas’ regional sales
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Bernard Joseph**  
 Business Intelligence Analyst  
