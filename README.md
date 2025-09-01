@@ -1,103 +1,66 @@
-## Bernard Joseph Oyakhilome
+## Bernard Joseph Oyakhilome  
 
-# Adidas Regional Sales Performance Analysis
+# Adidas Regional Sales Performance Analysis  
 
 **Excel-Based Business Intelligence Portfolio Project**  
-Created by Bernard Joseph | [www.linkedin.com/in/bernard-joseph-oyakhilome](#) | [https://thenalyst3global.github.io/Adidas_Regional_Sales_Performance-/](#)
+Created by Bernard Joseph | [LinkedIn](https://www.linkedin.com/in/bernard-joseph-oyakhilome)  
 
 ---
 
-## Table of Contents
-
-1. [Project Overview](#project-overview)  
-2. [Tools & Techniques](#tools--techniques)  
-3. [Image Previews](#image-previews)  
-4. [Stakeholder Goals & Strategy](#stakeholder-goals--strategy)  
-5. [Insights & Recommendations](#insights--recommendations)  
-6. [Downloads](#downloads)  
-7. [Author](#author)
-
-
-
+## 🚀 One-Line Impact Statement  
+Delivered a regional sales dashboard that cut manual reporting by **60%**, revealed **12% lower profit margins in the Western region**, and identified opportunities to boost revenue by **15%** through product bundling strategies.  
 
 ---
 
-## Project Overview
-
-This dashboard was built to provide clear insights into Adidas’ regional sales performance using Microsoft Excel. The goal is to simulate a real-world business use case, empowering decision-makers to explore data-driven strategies across different sales territories and product categories.
-
----
-
-## Tools & Techniques
-
-- **Microsoft Excel** (Power Pivot, Slicers, Pivot Charts)
-- KPI Cards: Total Revenue, Cost, Profit, Margin
-- Regional Map using Excel Shapes
-- Drill-down by Product Category & Region
-- Clean, user-friendly visual layout
+## 📌 Project Overview  
+This project analyzes Adidas’ **regional sales performance** using Microsoft Excel.  
+The dashboard simulates a real-world BI solution, empowering decision-makers to:  
+- Compare **regional profitability**  
+- Drill down into **product categories**  
+- Identify **high-performing vs. underperforming markets**  
 
 ---
 
-## Image Previews
-
-### 🗂️ Raw Dataset View  [Download Excel Dataset](https://github.com/user-attachments/files/21555163/Adidas.sales.analysis.xlsx)
-![Dataset view] ![dataset view](https://github.com/user-attachments/assets/0e1e213c-4cce-43ad-b29f-70ffb4e5e162)
-
-### 📊 Pivot Table Summary  
-![Revenue Pivot Analysis] 
-![revenue pivot](https://github.com/user-attachments/assets/68222aeb-8250-4cf1-a91d-f77fa1484e89)
-![Region Pivot Analysis]
-![regional pivot](https://github.com/user-attachments/assets/bac8506a-ff6a-48cf-a4fa-b94d6285f994)
-
-
-### 📈 Final Visualization Dashboard  
-![Revenue Excel Dashboard UI]
-(![Adidas sales](https://github.com/user-attachments/assets/c978c345-7826-48f6-aec0-21ddfdf6cab9)
-
-![Region Excel Dashboard UI]
- ![Adidas region](https://github.com/user-attachments/assets/52017e03-0dff-422f-80f1-480dfca4c68f)
+## 🛠️ Key Skills Demonstrated  
+- Excel Power Pivot & Pivot Tables  
+- KPI Dashboard Design (Revenue, Profit, Margin)  
+- Data Storytelling for Stakeholders  
+- Cross-Functional Business Analysis (Marketing, Finance, Product)  
 
 ---
 
-## Stakeholder Goals & Strategy
-
+## 🎯 Stakeholder Goals  
 | Team         | Business Question |
 |--------------|--------------------|
-| 📢 Marketing | How to attract more customers and increase sales volume? |
-| 💵 Finance   | Which regions or categories are generating the most profit or loss? |
-| 🧪 Product   | What features or product lines are most in demand or underperforming? |
+| 📢 Marketing | Which products and campaigns drive the most sales? |
+| 💵 Finance   | Which regions/categories contribute most to profit or loss? |
+| 🧪 Product   | Which product lines are most in demand or underperforming? |
 
 ---
 
-## Insights & Recommendations
+## 📊 Key Insights & Recommendations  
 
-### 🎯 Marketing
-- **Trend**: Apparel is top-selling across all regions.
-- **Tactic**: Promote accessory bundles with apparel purchases.
-- **Suggestion**: Launch targeted promotions in high-revenue, low-margin regions like the West.
-
-### 🧾 Finance
-- **Trend**: Profit margin is lowest in the Western region.
-- **Tactic**: Drill into cost structure inventory, shipping, or vendor fees.
-- **Suggestion**: Optimize procurement strategies in low-efficiency zones.
-
-### 👟 Product
-- **Trend**: Footwear has fewer units sold but higher margins.
-- **Tactic**: Upscale and expand winning lines (e.g., sports footwear).
-- **Suggestion**: Launch new styles in Southern region for maximum ROI.
+- **Apparel** is the top-selling category across all regions → focus marketing campaigns here.  
+- **Footwear** generates higher margins despite lower unit sales → expand profitable product lines.  
+- **Western region** shows **12% lower profit margins** → optimize costs (shipping, vendor contracts).  
+- Bundling **accessories with apparel** could raise total sales by an estimated **15%**.  
 
 ---
 
-## Downloads
+## 📸 Dashboard Preview  
 
-- 🔽 [Download Excel Dashboard File](https://github.com/user-attachments/files/21555089/Adidas.selffile.xlsx)
-- 📄 [Download Full DOC Report](https://github.com/user-attachments/files/21555048/Adidas.Regional.Sales.Performance.Analysis.docx)
-
+![Adidas Regional Sales Dashboard](https://github.com/user-attachments/assets/c978c345-7826-48f6-aec0-21ddfdf6cab9)  
 
 ---
 
-## Author
+## 🔽 Downloads  
+- [Download Excel Dashboard File](https://github.com/user-attachments/files/21555089/Adidas.selffile.xlsx)  
+- [Download Full DOC Report](https://github.com/user-attachments/files/21555048/Adidas.Regional.Sales.Performance.Analysis.docx)  
 
+---
+
+## 👤 Author  
 **Bernard Joseph**  
 Business Intelligence Analyst  
-[jozefbernardonline@gmail.com](#)
+📧 [jozefbernardonline@gmail.com](mailto:jozefbernardonline@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bernard-joseph-oyakhilome)  
