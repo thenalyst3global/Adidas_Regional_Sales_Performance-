@@ -31,11 +31,13 @@ The dashboard simulates a real-world BI solution, empowering decision-makers to:
 
 ## 🎯 Stakeholder Goals  
 
+
 | Stakeholder | Key Business Question |
 |-------------|------------------------|
 | 📢 Marketing | What products and campaigns generate the highest sales growth? |
 | 💵 Finance   | Which regions and categories contribute most to revenue and profit margins? |
 | 👟 Product   | Which product lines are driving demand and which are underperforming? |
+
 
 ---
 
